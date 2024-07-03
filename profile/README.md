@@ -1,1 +1,1 @@
-
+We are a research group in experimental quantum physics at the Institute for Quantum Computing. Our goal is to advance quantum science and technology through innovation and collaboration. We develop quantum processors to accelerate the development of functional quantum materials with transformative applications, especially in next-generation information processing devices.
